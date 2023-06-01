@@ -68,8 +68,8 @@ namespace B2BTest
                 {
                     Console.WriteLine("Error: el total no coincide con el total de las partes.");
                     Console.WriteLine("preciono enter para salir.");
+                    Console.ReadLine();
                 }
-                Console.ReadLine();
             }
         }
 
